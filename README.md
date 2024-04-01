@@ -2,4 +2,4 @@
     
     Desafio de Projeto - Formação GitHub Certification
 
-![Meu mood assistindo as aulas na DIO:](https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
+![image](https://github.com/JuGasparini00/ExplorandoColaboracao_e_Markdown/assets/143405464/32a72956-cf07-4bc3-927c-88bdb8d041da)
